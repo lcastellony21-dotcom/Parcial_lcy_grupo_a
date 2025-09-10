@@ -1,0 +1,26 @@
+INSERT estudiante Juan 2028-12345;
+INSERT curso Compiladores SIS305;
+SHOW estudiante Juan;
+SHOW curso MAT401;
+INSERT curso BasesDeDatos MATH01; # Error en formato
+
+
+insert estudiante Juan 202812345;
+INSER estudiate Juan 202812345;
+INSERT Estudiante Juan 202812345;
+INSERT estudiante Juan 202812345;
+INSERT estudiante Juan4 2028-12345;
+INSERT estudiante Juan tr 2028-12345;
+INSERT curso Compilad5ores SIS305;
+INSERT curso Compiladores tr SIS305;
+INSERT curso Compiladores 305SIS;
+INSERT curso Compiladores sis305;
+INSERT curso Compiladores SIS305;
+INSERT curso Compiladores SIST305;
+SHW estudiante Juan!!;
+SHOW estudiante Juan!!;
+SHOW estudiante Jua3n;
+SHOW estudiante JUAN;
+SHOW curso MaT401;
+SHOW curso 401MAT;
+
